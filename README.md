@@ -4,7 +4,7 @@
 
 - controller/user.go: Handles user-related API requests.
 - models/user.go: Defines the User model and its methods.
-- router/router.go: Registers routes for user endpoints
+- router/router.go: Register routes for user endpoints
 - db/db.go: Contains database connection logic.
 - utils/http_utils.go: Contains utility functions for HTTP responses.
 - main.go: Start the Chi app.
